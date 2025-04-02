@@ -145,7 +145,7 @@
         }
         @media (max-width: 600px) {
             .background{
-                height: 200vh;
+                height: 400vh;
             }
             .background h1{
             color:white;
